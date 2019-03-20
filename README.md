@@ -7,7 +7,7 @@ The project is based on [keras-rl](https://github.com/keras-rl/keras-rl) by Matt
 ## Installation
 The code can be installed by cloning this repository and executing `pip install -e .` in the directory containing the `setup.py`.
 
-It is also necessary to install [vizdoomgym](https://github.com/shakenes/vizdoomgym).
+It is also necessary to install [vizdoomgym](https://github.com/shakenes/vizdoomgym). Make sure to check out the `healthgathering` branch.
 
 ## Usage
 Start training a DQN agent in the Basic scenario with randomly initilized filters for 1.5M time steps by executing 
