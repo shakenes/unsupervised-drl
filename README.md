@@ -1,6 +1,6 @@
 # Boosting Reinforcement Learning with Unsupervised Feature Extraction
 
-This repository contains the code to reproduce the results presented in the paper "Boosting Reinforcement Learning with Unsupervised Feature Extraction" (submitted to ICANN 2019).
+This repository contains the code to reproduce the results presented in the paper [Boosting Reinforcement Learning with Unsupervised Feature Extraction](https://doi.org/10.1007/978-3-030-30487-4_43) presented at ICANN 2019.
 
 The project is based on [keras-rl](https://github.com/keras-rl/keras-rl) by Matthias Plappert. We kindly thank him and all contributors for their great work.
 
